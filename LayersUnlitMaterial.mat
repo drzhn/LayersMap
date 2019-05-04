@@ -62,7 +62,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
-    - _HeightRange: 18.5
+    - _HeightRange: 12.4
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
@@ -70,7 +70,7 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TexMultiplier: 103.9
+    - _TexMultiplier: 82.3
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
